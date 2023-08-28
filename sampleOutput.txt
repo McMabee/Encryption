@@ -1,0 +1,17 @@
+Offset done
+Poly done
+Chained done
+Encryption finished
+KEYS
+
+Offset Default Key: 1
+Chained Default Key: 12345
+Poly Default Key: LEMON
+
+ANTI-KEYS
+Note, the anti-key for poly will be the same as the key
+Offset Default Anti-Key: -1
+Chained Default Anti-Key: -12345
+Poly Default Anti-Key: 
+
+Process finished with exit code 0
